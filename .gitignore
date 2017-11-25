@@ -1,0 +1,7 @@
+/Debug/
+
+# System Workbench
+*.cfg
+
+# OSX
+/**/.DS_Store

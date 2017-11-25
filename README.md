@@ -1,2 +1,1 @@
-# STM32F746_DSP
-DSP audio effects on STM32F746
+# STM32F746 Multi FX unit
